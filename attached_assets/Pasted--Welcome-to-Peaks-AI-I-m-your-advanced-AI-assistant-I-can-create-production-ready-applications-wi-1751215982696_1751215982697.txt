@@ -1,0 +1,23 @@
+✨ Welcome to Peaks AI! I'm your advanced AI assistant. I can create production-ready applications with modern frameworks, databases, and authentication. What would you like to build today?
+Create a two-sided marketplace with seller dashboards, buyer accounts, payment processing, and review system
+❌ Error: GitHub Models API error: 400 Model not found; expected format: {publisher}/{model_name}. Valid models can be found by calling /catalog/models. . Please try again.
+Create a two-sided marketplace with seller dashboards, buyer accounts, payment processing, and review system
+❌ Error: GitHub Models API error: 400 Model not found; expected format: {publisher}/{model_name}. Valid models can be found by calling /catalog/models. . Please try again.
+Create a two-sided marketplace with seller dashboards, buyer accounts, payment processing, and review system
+❌ Error: GitHub Models API error: 400 Model not found; expected format: {publisher}/{model_name}. Valid models can be found by calling /catalog/models. . Please try again.
+Create a two-sided marketplace with seller dashboards, buyer accounts, payment processing, and review system
+❌ Error: GitHub Models API error: 400 Model not found; expected format: {publisher}/{model_name}. Valid models can be found by calling /catalog/models. . Please try again.
+Create a two-sided marketplace with seller dashboards, buyer accounts, payment processing, and review system
+❌ Error: GitHub Models API error: 400 Model not found; expected format: {publisher}/{model_name}. Valid models can be found by calling /catalog/models. . Please try again.
+Create a two-sided marketplace with seller dashboards, buyer accounts, payment processing, and review system
+❌ Error: GitHub Models API error: 400 Model not found; expected format: {publisher}/{model_name}. Valid models can be found by calling /catalog/models. . Please try again.
+Create a two-sided marketplace with seller dashboards, buyer accounts, payment processing, and review system
+❌ Error: GitHub Models API error: 400 Model not found; expected format: {publisher}/{model_name}. Valid models can be found by calling /catalog/models. . Please try again.
+Create a two-sided marketplace with seller dashboards, buyer accounts, payment processing, and review system
+❌ Error: GitHub Models API error: 400 Model not found; expected format: {publisher}/{model_name}. Valid models can be found by calling /catalog/models. . Please try again.
+Create a two-sided marketplace with seller dashboards, buyer accounts, payment processing, and review system
+❌ Error: GitHub Models API error: 400 Model not found; expected format: {publisher}/{model_name}. Valid models can be found by calling /catalog/models. . Please try again.
+Create a two-sided marketplace with seller dashboards, buyer accounts, payment processing, and review system
+❌ Error: GitHub Models API error: 400 Model not found; expected format: {publisher}/{model_name}. Valid models can be found by calling /catalog/models. . Please try again.
+Create a two-sided marketplace with seller dashboards, buyer accounts, payment processing, and review system
+❌ Error: GitHub Models API error: 400 Model not fou
